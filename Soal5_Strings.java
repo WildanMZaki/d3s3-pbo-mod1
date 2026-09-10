@@ -17,6 +17,7 @@ public class Soal5_Strings {
             System.out.println("No");
         }
 
+        // 3. Capitalize the first letter in A and B and print them on a single line, separated by a space.
         String A_Kapital = A.substring(0, 1).toUpperCase() + A.substring(1);
         String B_Kapital = B.substring(0, 1).toUpperCase() + B.substring(1);
         System.out.println(A_Kapital + " " + B_Kapital);
@@ -40,7 +41,7 @@ public class Soal5_Strings {
  * 
  * Terminal Runtime Documentation:
  * java-onboarding on  master [?] via ☕ v21.0.5 took 2s
- * ❯ java Soal5_Strings
+ * > java Soal5_Strings
  * hello
  * world
  * 10
@@ -48,7 +49,7 @@ public class Soal5_Strings {
  * Hello World
  * 
  * java-onboarding on  master [?] via ☕ v21.0.5 took 23s
- * ❯ java Soal5_Strings
+ * > java Soal5_Strings
  * minum
  * kopi
  * 9

@@ -33,7 +33,7 @@ public class Soal4_ConvertDataType {
  * 
  * Bukti Terminal Runtime:
  * java-onboarding on  master [?⇡] via ☕ v21.0.5
- * ❯ java Soal4_ConvertDataType
+ * > java Soal4_ConvertDataType
  * 10.25
  * 10
  * 
@@ -58,7 +58,7 @@ public class Soal4_ConvertDataType {
  * nominal kecil.
  * 
  * Uji coba case lain:
- * ❯ java Soal4_ConvertDataType
+ * > java Soal4_ConvertDataType
  * double = 33000.25
  * float casting = 33000.25
  * long = 33000

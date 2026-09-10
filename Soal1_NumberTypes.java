@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Soal1_NumberTypes {
     public static void main(String[] args) {
         // Scanner: Mekanisme untuk menerima input di program java
